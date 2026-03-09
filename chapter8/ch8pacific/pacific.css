@@ -70,10 +70,10 @@ nav a {
 nav a:link {
   color: #5c7fa3;
 }
-nav a :visited {
+nav a:visited {
   color: #344873;
 }
-nav a :hover {
+nav a:hover {
   color: #a52a2a;
 }
 main {
@@ -189,3 +189,4 @@ footer {
     max-width: 100%;
   }
 }
+
